@@ -1,0 +1,7 @@
+{
+  "name": "phpffcms/ffcms-elfinder",
+  "description": "Builder versions of elfinder for ffcms 3",
+  "keywords": ["ffcms", "js", "file", "manager"],
+  "minimum-stability": "stable",
+  "license": "BSD-3-Clause"
+}
